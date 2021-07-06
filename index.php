@@ -115,7 +115,7 @@
   </span>
 </div>
 <BR>
-  <h4>We are here to HELP Youth </h4>
+  <h4>We are here to F**k Youth </h4>
   <br>
   <div class="row text-center slideanim">
     <div class="col-sm-4">
